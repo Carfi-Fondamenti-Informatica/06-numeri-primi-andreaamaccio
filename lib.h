@@ -1,1 +1,1 @@
-int funzione(int, int);
+bool funzione(int, int);
